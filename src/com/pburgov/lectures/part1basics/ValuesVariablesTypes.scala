@@ -1,4 +1,4 @@
-package com.pburgov.lectures.basics1
+package com.pburgov.lectures.part1basics
 
 object ValuesVariablesTypes extends App {
   // values inmutables
